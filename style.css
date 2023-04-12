@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'FontAwesome';
+  src: url("applab/fontawesome-webfont.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+#myH{
+
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+width: 100;
+}
